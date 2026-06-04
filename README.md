@@ -90,7 +90,8 @@ The dataset contains project-related information including:
 
 ## 📸 Dashboard Preview
 
-<img width="100%" alt="Project Payment Tracking Dashboard" src="Dashboard_Screenshot.png">
+<img width="1223" height="598" alt="image" src="https://github.com/user-attachments/assets/6133d364-74e1-4932-b760-89edfe36f2dc" />
+
 
 ---
 
